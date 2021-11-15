@@ -1,0 +1,14 @@
+D:\Teme\EGC\Laborator5\Laborator5_Macovei_Dumitru_Viorel\bin\Debug\Laborator5_Macovei_Dumitru_Viorel.exe.config
+D:\Teme\EGC\Laborator5\Laborator5_Macovei_Dumitru_Viorel\bin\Debug\Laborator5_Macovei_Dumitru_Viorel.exe
+D:\Teme\EGC\Laborator5\Laborator5_Macovei_Dumitru_Viorel\bin\Debug\Laborator5_Macovei_Dumitru_Viorel.pdb
+D:\Teme\EGC\Laborator5\Laborator5_Macovei_Dumitru_Viorel\bin\Debug\OpenTK.dll
+D:\Teme\EGC\Laborator5\Laborator5_Macovei_Dumitru_Viorel\bin\Debug\OpenTK.GLControl.dll
+D:\Teme\EGC\Laborator5\Laborator5_Macovei_Dumitru_Viorel\bin\Debug\OpenTK.pdb
+D:\Teme\EGC\Laborator5\Laborator5_Macovei_Dumitru_Viorel\bin\Debug\OpenTK.xml
+D:\Teme\EGC\Laborator5\Laborator5_Macovei_Dumitru_Viorel\bin\Debug\OpenTK.GLControl.pdb
+D:\Teme\EGC\Laborator5\Laborator5_Macovei_Dumitru_Viorel\bin\Debug\OpenTK.GLControl.xml
+D:\Teme\EGC\Laborator5\Laborator5_Macovei_Dumitru_Viorel\obj\Debug\Laborator5_Macovei_Dumitru_Viorel.csproj.AssemblyReference.cache
+D:\Teme\EGC\Laborator5\Laborator5_Macovei_Dumitru_Viorel\obj\Debug\Laborator5_Macovei_Dumitru_Viorel.csproj.CoreCompileInputs.cache
+D:\Teme\EGC\Laborator5\Laborator5_Macovei_Dumitru_Viorel\obj\Debug\Laborator5_Macovei_Dumitru_Viorel.csproj.CopyComplete
+D:\Teme\EGC\Laborator5\Laborator5_Macovei_Dumitru_Viorel\obj\Debug\Laborator5_Macovei_Dumitru_Viorel.exe
+D:\Teme\EGC\Laborator5\Laborator5_Macovei_Dumitru_Viorel\obj\Debug\Laborator5_Macovei_Dumitru_Viorel.pdb
